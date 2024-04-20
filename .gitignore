@@ -13,3 +13,6 @@ pasta_data/*
 microbin_data/*
 *.env
 **/**/microbin-data
+
+# IDE folder
+.idea/
